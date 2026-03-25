@@ -1,27 +1,28 @@
-# Job Market Analysis Dashboard
+# 📊 Job Market Analysis Dashboard
 
-## 📊 Project Overview
-This project analyzes job market trends using real-world datasets from Kaggle. It includes data cleaning, storage, and an interactive dashboard for insights.
+An interactive data dashboard to explore job salaries, roles, and trends.
 
-## Features
-- Data cleaning using Pandas
-- SQLite database integration
-- Interactive dashboard using Streamlit
-- Salary analysis and experience-level filtering
+## 🚀 Features
+- 🔍 Filter by experience level, country, and job role  
+- 📊 Salary distribution visualization  
+- 🏆 Top paying jobs analysis  
+- 💡 Automated insights generation  
 
-## Tech Stack
-- Python
-- Pandas
-- SQLite
-- Streamlit
-- Git & GitHub
 
-## Project Structure
-- app.py → Streamlit dashboard
-- etl.py → Data cleaning and loading
-- jobs.db → Database
-- cleaned_data.csv → Processed dataset
+## 🛠 Tech Stack
+- Python  
+- Streamlit  
+- SQLite  
+- Pandas  
+- Altair  
 
-## How to Run
-```bash
-streamlit run app.py
+
+## 🌐 Live Demo
+👉 https://your-app.streamlit.app
+
+
+## 📌 Description
+This project simulates a real-world data pipeline by combining SQL-based filtering with interactive visualizations to analyze job market trends.
+
+## 👨‍💻 Author
+Tejokiran
