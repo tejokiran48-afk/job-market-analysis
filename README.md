@@ -18,7 +18,7 @@ An interactive data dashboard to explore job salaries, roles, and trends.
 
 
 ## 🌐 Live Demo
-👉 https://your-app.streamlit.app
+👉 https://job-market-analysis-x7hchownrcwgyb2bxjivul.streamlit.app
 
 
 ## 📌 Description
